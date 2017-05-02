@@ -4,7 +4,7 @@ Simple example for embedding SSE2 assembly in Cython projects
 
 ## Introduction
 
-As it says on the tin.
+As it says on the tin. The embedding is done via using the SIMD intrinsics.
 
 The purpose of this project is to provide documentation, since this information was a bit hard to find.
 
