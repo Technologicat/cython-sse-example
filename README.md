@@ -1,4 +1,4 @@
-# cython-sse
+# cython-sse-example
 
 Simple example for embedding SSE2 assembly in Cython projects
 
